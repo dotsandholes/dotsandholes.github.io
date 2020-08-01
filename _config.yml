@@ -21,7 +21,7 @@ paginate:         5
 
 prose:
   rooturl: ''
-  siteurl: http://www.burnedsap.github.io/
+  siteurl: http://www.dotsandholes.github.io/
   media: assets
   metadata:
     _posts:
@@ -44,7 +44,7 @@ prose:
       field:
         label: author
         element: text
-        value: Salil
+        value: Rimjhim
     - name: categories
       field:
         label: categories
