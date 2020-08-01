@@ -10,7 +10,7 @@ permalink:        pretty
 # Setup
 title:            Dots &Holes
 tagline:          'A blog'
-description:      'Okay well keep it brief'
+description:      'Cant seem to get rid of it'
 url:              
 baseurl:          ''
 author:
@@ -19,5 +19,39 @@ author:
 
 paginate:         5
 
-# Custom vars
-version:          2.1.0
+prose:
+  rooturl: ''
+  siteurl: http://www.burnedsap.github.io/
+  media: assets
+  metadata:
+    _posts:
+    - name: title
+      field:
+        label: title
+        element: text
+        value: title
+    - name: layout
+      field:
+        label: layout
+        element: text
+        value: post
+    - name: date
+      field:
+        label: date
+        element: text
+        value: CURRENT_DATETIME
+    - name: author
+      field:
+        label: author
+        element: text
+        value: Salil
+    - name: categories
+      field:
+        label: categories
+        element: text
+        placeholder: Enter categories separated by commas
+    - name: tags
+      field:
+        label: tags
+        element: text
+        placeholder: Enter tags separated by commas
