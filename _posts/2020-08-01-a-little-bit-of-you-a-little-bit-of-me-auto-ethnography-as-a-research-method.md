@@ -2,7 +2,7 @@
 layout: post
 date: '2020-08-01 13:17 +0530'
 author: Rimjhim
-published: false
+published: true
 title: >-
   A little bit of you & A little bit of me: Auto-ethnography as a research
   method
