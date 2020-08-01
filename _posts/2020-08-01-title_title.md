@@ -1,4 +1,4 @@
 ---
-published: false
+published: true
 ---
 ITS A NEW POST!! 🤡
