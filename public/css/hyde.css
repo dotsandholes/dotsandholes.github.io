@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Montserrat", Helvetica, Arial, sans-serif;
+  font-family: "Josefin Sans", Helvetica, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Montserrat", bold;
+  font-family: "Josefin sans", bold;
   font-size: 3.25rem;
 }
 
