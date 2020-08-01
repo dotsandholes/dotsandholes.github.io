@@ -6,6 +6,7 @@ published: false
 title: >-
   A little bit of you & A little bit of me: Auto-ethnography as a research
   method
+tags: 'research, auto-ethnography'
 ---
 Auto-ethnography is a research method where personal experiences and reflections by the researcher/writer converse with the wider political and cultural ecosystem that surrounds them. It is a highly criticised method within the qualitative research world because it moves away from the idea of maintaining objectivity in research. Due to my general inclination to favour the underdog and also the unconventional, this article is largely written in support of auto-ethnography and as an attempt to offer my perspective on it. My perspective was born out of reading texts on auto-ethnography by other writers, but largely it comes from having used the research method myself and truly seeing the benefits of it. This piece is a combination of a perspective and an auto-ethnography on auto-ethnography if you will. 
 
