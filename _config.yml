@@ -12,7 +12,7 @@ title:            Dots &Holes
 tagline:          'A blog'
 description:      'Cant seem to get rid of it'
 url:              
-baseurl:          'https://dotsandholes.github.io'
+baseurl:          'https://dotsandholes.github.io/'
 author:
   name:           'Rimjhim Surana'
   url:            
