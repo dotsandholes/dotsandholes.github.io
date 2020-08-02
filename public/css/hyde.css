@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 @media (min-width: 48em) {
   html {
