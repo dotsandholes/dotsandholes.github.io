@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Josefin Sans", Montserrat, serif;
+  font-family: "Courier New", Courier, monospace;
 }
 @media (min-width: 48em) {
   html {
@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #fff;
   margin-top: 0;
-  font-family: "Josefin sans", bold;
+  font-family: "Courier New", bold;
   font-size: 3.25rem;
 }
 
