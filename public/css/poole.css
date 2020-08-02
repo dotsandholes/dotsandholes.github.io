@@ -48,7 +48,7 @@ body {
 }
 
 html {
-  font-family: "Lucida Sans Unicode", "Lucida Grand", sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
   font-size: 16px;
   line-height: 1.5;
 }
@@ -151,7 +151,7 @@ abbr[title] {
 /* Code */
 code,
 pre {
-  font-family: "Lucida Grand", bold;
+  font-family: "Tahoma", bold;
 }
 code {
   padding: .25em .5em;
@@ -191,7 +191,7 @@ pre code {
 
 /* Gist via GitHub Pages */
 .gist .gist-file {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif !important;
+  font-family: Tahoma, Geneva, sans-serif !important;
 }
 .gist .markdown-body {
   padding: 15px;
@@ -390,7 +390,7 @@ tbody tr:nth-child(odd) th {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
   color: #ccc;
   text-align: center;
 }
