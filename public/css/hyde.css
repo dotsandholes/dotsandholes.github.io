@@ -79,8 +79,8 @@ html {
 .sidebar-about h1 {
   color: #2e2e2e;
   margin-top: 0;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
-  font-size: 2.25rem;
+  font-family: "Lucida Grande", bold;
+  font-size: 2.75rem;
 }
 
 /* Sidebar nav */
