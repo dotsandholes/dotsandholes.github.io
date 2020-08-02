@@ -32,7 +32,7 @@
  */
 
 html {
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
 }
 @media (min-width: 48em) {
   html {
@@ -79,7 +79,7 @@ html {
 .sidebar-about h1 {
   color: #2e2e2e;
   margin-top: 0;
-  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+  font-family: Tahoma, Geneva, sans-serif;
   font-size: 3.25rem;
 }
 
