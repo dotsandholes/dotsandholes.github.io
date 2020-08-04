@@ -1,7 +1,9 @@
 ---
 layout: post
 title: What's Jekyll?
-published: true
+published: false
+date: '2020-08-04 14:49 +0530'
+author: Rimjhim
 ---
 
 [Jekyll](http://jekyllrb.com) is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From [the project's readme](https://github.com/mojombo/jekyll/blob/master/README.markdown):
