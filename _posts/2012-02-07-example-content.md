@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Example content
+published: false
+date: '2020-08-04 14:49 +0530'
+author: Rimjhim
 ---
 
 
