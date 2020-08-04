@@ -50,7 +50,7 @@ body {
 html {
   font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
   font-size: 14px;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 @media (min-width: 38em) {
   html {
@@ -94,7 +94,6 @@ h1 {
 h2 {
   margin-top: 0.5rem;
   font-size: 1.25rem;
-  line-height: 2;
 }
 h3 {
   margin-top: 1.5rem;
